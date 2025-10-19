@@ -5,4 +5,4 @@
 **รายละเอียด:** เว็บไซต์ Resume ส่วนตัว  
 พัฒนาโดยใช้ HTML, CSS, JavaScript และ Deploy ผ่าน Cloudflare Pages
 
-Deploy : student-resume-45h.pages.dev
+Deploy :[ student-resume-45h.pages.dev](https://github.com/users/Coahz/projects/4/views/1)
